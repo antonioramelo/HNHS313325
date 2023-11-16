@@ -1,5 +1,4 @@
-<script>
-  function changeTable() {
+ function changeTable() {
     // Get the selected value from the dropdown
     var selectedTable = document.getElementById("table-selector").value;
 
@@ -15,4 +14,3 @@
       selectedTableElement.style.display = "table";
     }
   }
-</script>
