@@ -1,3 +1,4 @@
+<style>
 * {
   box-sizing: border-box;
   padding: 0;
@@ -79,3 +80,5 @@ textarea {
     margin-bottom: 10px; /* Adjust the spacing as needed */
   }
 }
+
+</style>
