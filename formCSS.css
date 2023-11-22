@@ -40,6 +40,6 @@ textarea{
 	margin-top: 10px;
 	border-radius: 5px;
 }
-#submit:hover{
+#submit:active{
 	background-color: #333333;
 }
